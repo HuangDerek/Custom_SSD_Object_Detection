@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20210908_185319.jpg</filename>
+	<path>C:\Users\Huang\Desktop\Custom Dataset\train\IMG_20210908_185319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1220</xmin>
+			<ymin>1138</ymin>
+			<xmax>3312</xmax>
+			<ymax>2240</ymax>
+		</bndbox>
+	</object>
+</annotation>
